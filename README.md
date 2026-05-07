@@ -24,4 +24,4 @@ Di mana:
 4. Hasil perhitungan akan menampilkan total bunga yang harus dibayarkan.
 
 ## Kontributor
-* [Nama Anda / Username GitHub Anda]
+* [BCleosa]
